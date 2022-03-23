@@ -1,1 +1,5 @@
-
+fun main() {
+    print("Happy Birthday!\n")
+    print("Qath\n")
+    print("You are 25!")
+}
